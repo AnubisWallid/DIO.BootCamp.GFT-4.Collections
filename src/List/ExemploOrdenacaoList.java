@@ -1,7 +1,9 @@
-import ClassOrdenacao.ComparatorIdade;
-import ClassOrdenacao.ComparatorCor;
-import ClassOrdenacao.ComparatorNomeIdadeCor;
-import ClassOrdenacao.Gato;
+package List;
+
+import List.ClassOrdenacao.ComparatorIdade;
+import List.ClassOrdenacao.ComparatorCor;
+import List.ClassOrdenacao.ComparatorNomeIdadeCor;
+import List.ClassOrdenacao.Gato;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package ClassOrdenacao;
+package List.ClassOrdenacao;
 import java.util.Comparator;
 
 public class ComparatorIdade implements Comparator<Gato> {
