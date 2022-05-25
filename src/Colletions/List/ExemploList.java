@@ -1,4 +1,4 @@
-package List;//Dada uma lista com 7 notas de um aluno [7, 8.5, 9.3, 5, 7, 0, 3.6], faça:
+package Colletions.List;//Dada uma lista com 7 notas de um aluno [7, 8.5, 9.3, 5, 7, 0, 3.6], faça:
 
 import java.util.*;
 
@@ -7,13 +7,13 @@ class ExemploList {
 
         System.out.println("Crie uma lista e adicione as sete notas: ");
         /* ALGUMAS FORMAS DE INICIAR A LIST :
-        List notas = new ArrayList(); //antes do java 5
+        Colletions.List notas = new ArrayList(); //antes do java 5
         ArrayList<Double> notas = new ArrayList<>();
-        List<Double> notas = new ArrayList<>(Arrays.asList(7d, 8.5, 9.3, 5d, 7d, 0d, 3.6));
-        List<Double> notas = Arrays.asList(7d, 8.5, 9.3, 5d, 7d, 0d, 3.6);
+        Colletions.List<Double> notas = new ArrayList<>(Arrays.asList(7d, 8.5, 9.3, 5d, 7d, 0d, 3.6));
+        Colletions.List<Double> notas = Arrays.asList(7d, 8.5, 9.3, 5d, 7d, 0d, 3.6);
         notas.add(10d); // ERRO
         System.out.println(notas);
-        List<Double> notas = List.of(7d, 8.5, 9.3, 5d, 7d, 0d, 3.6);
+        Colletions.List<Double> notas = Colletions.List.of(7d, 8.5, 9.3, 5d, 7d, 0d, 3.6);
         notas.add(1d); // ERRO
         notas.remove(5d); // ERRO
         */

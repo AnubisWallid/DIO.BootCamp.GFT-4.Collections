@@ -1,3 +1,4 @@
+package Colletions.Map;
 
 /*
  Dada os modelos dos carros e seus respectivos consumos na estrada, faça:
